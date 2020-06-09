@@ -7,7 +7,7 @@ This project and everyone participating in it is governed by the [Adyen Code of 
  
 ## How to contribute
 1. Fork the repository.
-2. Create a new branch from the `develop` branch in your repository. This makes it easier for you to keep track of your changes.
+2. Create a new branch from the default branch in your repository. This makes it easier for you to keep track of your changes.
 3. Make the desired changes to the code.
     * If you are adding new functionality or fixing a bug, we recommend you add unit tests that cover it.
 4. Push the changes to your fork.
