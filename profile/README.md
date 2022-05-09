@@ -4,7 +4,7 @@
 
 <img src="https://github.com/adyen-examples/.github/raw/main/images/logo.png" height="100" alt="The Adyen logo">
 
-This page contains the source code for all of our libraries and plug-ins as well as our Open API specifications. To find a list of example integrations for those, you can visit **[the Adyen examples GitHub page](https://github.com/adyen-examples)**.
+This page contains the source code for all of our libraries, SDKs and plug-ins as well as our Open API specifications. To find a list of example integrations for those, you can visit **[the Adyen examples GitHub page](https://github.com/adyen-examples)**.
 
 ## 📜 Our documentation pages : 
 
@@ -27,7 +27,6 @@ This page contains the source code for all of our libraries and plug-ins as well
 ### Libraries and SDKs
 
 * [Adyen Web Drop-in and Components](https://github.com/Adyen/adyen-web)
-
 * [Adyen API Library for PHP](https://github.com/Adyen/adyen-php-api-library)
 * [Adyen API Library for Java](https://github.com/Adyen/adyen-java-api-library)
 * [Adyen API Library for Node.js](https://github.com/Adyen/adyen-node-api-library)
@@ -35,7 +34,6 @@ This page contains the source code for all of our libraries and plug-ins as well
 * [Adyen API Library for Go](https://github.com/Adyen/adyen-go-api-library)
 * [Adyen API Library for Python](https://github.com/Adyen/adyen-python-api-library)
 * [Adyen API Library for Ruby](https://github.com/Adyen/adyen-ruby-api-library)
-
 * [Adyen React Native [Beta]](https://github.com/Adyen/adyen-react-native)
 * [Adyen SDK for iOS](https://github.com/Adyen/adyen-ios)
 * [Adyen SDK for Android](https://github.com/Adyen/adyen-android)
