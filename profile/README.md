@@ -35,8 +35,8 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 * [Adyen API Library for Python](https://github.com/Adyen/adyen-python-api-library)
 * [Adyen API Library for Ruby](https://github.com/Adyen/adyen-ruby-api-library)
 * [Adyen React Native [Beta]](https://github.com/Adyen/adyen-react-native)
-* [Adyen SDK for iOS](https://github.com/Adyen/adyen-ios)
-* [Adyen SDK for Android](https://github.com/Adyen/adyen-android)
+* [Adyen iOS Drop-in and Components](https://github.com/Adyen/adyen-ios)
+* [Adyen Android Drop-in and Components](https://github.com/Adyen/adyen-android)
 * [Adyen Terminal API for iOS](https://github.com/Adyen/adyen-terminal-api-ios)
 
 ### Plug-ins
