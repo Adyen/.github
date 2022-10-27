@@ -37,6 +37,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 * [Adyen React Native [Beta]](https://github.com/Adyen/adyen-react-native)
 * [Adyen SDK for iOS](https://github.com/Adyen/adyen-ios)
 * [Adyen SDK for Android](https://github.com/Adyen/adyen-android)
+* [Adyen Terminal API for iOS](https://github.com/Adyen/adyen-terminal-api-ios)
 
 ### Plug-ins
 
