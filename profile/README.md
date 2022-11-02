@@ -73,7 +73,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 * [Adyen plugin for Oracle Commerce Cloud](https://github.com/Adyen/adyen-oracle-commerce-cloud)
 * [Adyen app for Salesforce B2B Commerce](https://github.com/Adyen/adyen-salesforce-b2b-commerce)
 
-### Others repos
+### Other repos
 
 * [OpenAPI specification for the Adyen APIs](https://github.com/Adyen/adyen-openapi)
 * [PHP Webhook Helper Module for Adyen Payment Integrations](https://github.com/Adyen/php-webhook-module)
