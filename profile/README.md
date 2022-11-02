@@ -26,7 +26,26 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 
 ### Libraries and SDKs
 
-* [Adyen Web Drop-in and Components](https://github.com/Adyen/adyen-web)
+#### Drop-in and Components
+
+* [Adyen Web](https://github.com/Adyen/adyen-web)
+* [Adyen iOS](https://github.com/Adyen/adyen-ios)
+* [Adyen Android](https://github.com/Adyen/adyen-android)
+* [Adyen React Native [BETA]](https://github.com/Adyen/adyen-react-native)
+
+#### 3DS 2.0
+
+* [Wrapper for 3DS 2.0 library for iOS](https://github.com/Adyen/adyen-3ds2-ios)
+* [Wrapper for 3DS 2.0 library for Android](https://github.com/Adyen/adyen-3ds2-android)
+* [Helper functions to get 3DS 2.0 integrated on the front-end](https://github.com/Adyen/adyen-3ds2-js-utils)
+
+#### Supplementary
+
+* [Adyen Networking library for iOS](https://github.com/Adyen/adyen-networking-ios)
+* [Adyen WeChat Pay SDK Wrapper for iOS](https://github.com/Adyen/adyen-wechatpay-ios)
+
+#### API Libraries
+
 * [Adyen API Library for PHP](https://github.com/Adyen/adyen-php-api-library)
 * [Adyen API Library for Java](https://github.com/Adyen/adyen-java-api-library)
 * [Adyen API Library for Node.js](https://github.com/Adyen/adyen-node-api-library)
@@ -34,27 +53,29 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 * [Adyen API Library for Go](https://github.com/Adyen/adyen-go-api-library)
 * [Adyen API Library for Python](https://github.com/Adyen/adyen-python-api-library)
 * [Adyen API Library for Ruby](https://github.com/Adyen/adyen-ruby-api-library)
-* [Adyen React Native [Beta]](https://github.com/Adyen/adyen-react-native)
-* [Adyen iOS Drop-in and Components](https://github.com/Adyen/adyen-ios)
-* [Adyen Android Drop-in and Components](https://github.com/Adyen/adyen-android)
+* [Adyen API Library for Apex [BETA]](https://github.com/Adyen/adyen-apex-api-library)
+
+#### Terminal API
+
 * [Adyen Terminal API for iOS](https://github.com/Adyen/adyen-terminal-api-ios)
 
-### Plug-ins
+### Payment plugins
 
-* [Adyen Payment plugin for Magento2](https://github.com/Adyen/adyen-magento2) 
-* [Adyen API Library for Apex](https://github.com/Adyen/adyen-apex-api-library)
 * [Adyen Payment plugin for Shopware 6](https://github.com/Adyen/adyen-shopware6)
 * [Adyen Payment plugin for Shopware 5](https://github.com/Adyen/adyen-shopware5)
-* [Salesforce Commerce Cloud (formerly Demandware)](https://github.com/Adyen/adyen-salesforce-commerce-cloud)
-* [Adyen plugin for Oracle Commerce Cloud](https://github.com/Adyen/adyen-oracle-commerce-cloud)
-* [Adyen app for Salesforce B2B Commerce](https://github.com/Adyen/adyen-salesforce-b2b-commerce)
+* [Adyen Payment plugin for Magento2](https://github.com/Adyen/adyen-magento2) 
 * [Adyen Payment plugin for Prestashop](https://github.com/Adyen/adyen-prestashop)
 * [Adyen Payment plugin for Hybris](https://github.com/Adyen/adyen-hybris)
 
-### Others
+### Integration plugins
+
+* [Salesforce Commerce Cloud (formerly Demandware)](https://github.com/Adyen/adyen-salesforce-commerce-cloud)
+* [Adyen plugin for Oracle Commerce Cloud](https://github.com/Adyen/adyen-oracle-commerce-cloud)
+* [Adyen app for Salesforce B2B Commerce](https://github.com/Adyen/adyen-salesforce-b2b-commerce)
+
+### Others repos
 
 * [OpenAPI specification for the Adyen APIs](https://github.com/Adyen/adyen-openapi)
 * [PHP Webhook Helper Module for Adyen Payment Integrations](https://github.com/Adyen/php-webhook-module)
 * [Plugin for feast to run an offline store on Spark](https://github.com/Adyen/feast-spark-offline-store)
-* [Helper functions to get 3DS 2.0 integrated on the front-end](https://github.com/Adyen/adyen-3ds2-js-utils)
-* [Adyen WeChat Pay SDK Wrapper](https://github.com/Adyen/adyen-wechatpay-ios)
+
