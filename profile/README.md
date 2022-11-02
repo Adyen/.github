@@ -59,21 +59,21 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 
 * [Adyen Terminal API for iOS](https://github.com/Adyen/adyen-terminal-api-ios)
 
-### Payment plugins
+### Payment Plugins
 
+* [Adyen Payment plugin for Magento2](https://github.com/Adyen/adyen-magento2) 
 * [Adyen Payment plugin for Shopware 6](https://github.com/Adyen/adyen-shopware6)
 * [Adyen Payment plugin for Shopware 5](https://github.com/Adyen/adyen-shopware5)
-* [Adyen Payment plugin for Magento2](https://github.com/Adyen/adyen-magento2) 
 * [Adyen Payment plugin for Prestashop](https://github.com/Adyen/adyen-prestashop)
 * [Adyen Payment plugin for Hybris](https://github.com/Adyen/adyen-hybris)
 
-### Integration plugins
+### Integration Plugins
 
 * [Salesforce Commerce Cloud (formerly Demandware)](https://github.com/Adyen/adyen-salesforce-commerce-cloud)
 * [Adyen plugin for Oracle Commerce Cloud](https://github.com/Adyen/adyen-oracle-commerce-cloud)
 * [Adyen app for Salesforce B2B Commerce](https://github.com/Adyen/adyen-salesforce-b2b-commerce)
 
-### Other repos
+### Other Repos
 
 * [OpenAPI specification for the Adyen APIs](https://github.com/Adyen/adyen-openapi)
 * [PHP Webhook Helper Module for Adyen Payment Integrations](https://github.com/Adyen/php-webhook-module)
