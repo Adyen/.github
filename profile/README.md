@@ -40,13 +40,14 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 #### Supplementary
 
 * [Networking library for iOS](https://github.com/Adyen/adyen-networking-ios)
-* [WeChat Pay SDK Wrapper for iOS](https://github.com/Adyen/adyen-wechatpay-ios)
+* [WeChat Pay SDK wrapper for iOS](https://github.com/Adyen/adyen-wechatpay-ios)
 * [Wrapper for 3DS 2.0 library for iOS](https://github.com/Adyen/adyen-3ds2-ios)
 * [Wrapper for 3DS 2.0 library for Android](https://github.com/Adyen/adyen-3ds2-android)
 * [Helper functions to get 3DS 2.0 integrated on the front-end](https://github.com/Adyen/adyen-3ds2-js-utils)
 
 ### Server-side
 
+* [OpenAPI specification](https://github.com/Adyen/adyen-openapi)
 * [API library for PHP](https://github.com/Adyen/adyen-php-api-library)
 * [API library for Java](https://github.com/Adyen/adyen-java-api-library)
 * [API library for Node.js](https://github.com/Adyen/adyen-node-api-library)
@@ -74,7 +75,5 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 
 ### Other repos
 
-* [OpenAPI specification for the Adyen APIs](https://github.com/Adyen/adyen-openapi)
-* [PHP webhook helper module for Adyen Payment Integrations](https://github.com/Adyen/php-webhook-module)
-* [Plugin for feast to run an offline store on Spark](https://github.com/Adyen/feast-spark-offline-store)
-
+* [PHP webhook helper module for payment integrations [Beta]](https://github.com/Adyen/php-webhook-module)
+* [Plugin for feast to run an offline store on Spark [Discontinued]](https://github.com/Adyen/feast-spark-offline-store)
