@@ -63,7 +63,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 * [Shopware 6](https://github.com/Adyen/adyen-shopware6)
 * [Shopware 5](https://github.com/Adyen/adyen-shopware5)
 * [Prestashop](https://github.com/Adyen/adyen-prestashop)
-* [Hybris](https://github.com/Adyen/adyen-hybris
+* [Hybris](https://github.com/Adyen/adyen-hybris)
 * [Salesforce Commerce Cloud (formerly Demandware)](https://github.com/Adyen/adyen-salesforce-commerce-cloud)
 * [Oracle Commerce Cloud](https://github.com/Adyen/adyen-oracle-commerce-cloud)
 * [App for Salesforce B2B Commerce](https://github.com/Adyen/adyen-salesforce-b2b-commerce)
