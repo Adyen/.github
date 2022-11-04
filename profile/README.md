@@ -43,7 +43,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 * [WeChat Pay SDK wrapper for iOS](https://github.com/Adyen/adyen-wechatpay-ios)
 * [Wrapper for 3DS 2.0 library for iOS](https://github.com/Adyen/adyen-3ds2-ios)
 * [Wrapper for 3DS 2.0 library for Android](https://github.com/Adyen/adyen-3ds2-android)
-* [Helper functions to get 3DS 2.0 integrated on the front-end](https://github.com/Adyen/adyen-3ds2-js-utils)
+* [Helper functions to get 3DS 2.0 integrated for Web](https://github.com/Adyen/adyen-3ds2-js-utils)
 
 ### Server-side
 
@@ -59,21 +59,16 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 
 ### Plugins
 
-#### Payment plugins
-
-* [Payment plugin for Magento2](https://github.com/Adyen/adyen-magento2) 
-* [Payment plugin for Shopware 6](https://github.com/Adyen/adyen-shopware6)
-* [Payment plugin for Shopware 5](https://github.com/Adyen/adyen-shopware5)
-* [Payment plugin for Prestashop](https://github.com/Adyen/adyen-prestashop)
-* [Payment plugin for Hybris](https://github.com/Adyen/adyen-hybris)
-
-#### Integration plugins
-
+* [Magento2](https://github.com/Adyen/adyen-magento2) 
+* [Shopware 6](https://github.com/Adyen/adyen-shopware6)
+* [Shopware 5](https://github.com/Adyen/adyen-shopware5)
+* [Prestashop](https://github.com/Adyen/adyen-prestashop)
+* [Hybris](https://github.com/Adyen/adyen-hybris
 * [Salesforce Commerce Cloud (formerly Demandware)](https://github.com/Adyen/adyen-salesforce-commerce-cloud)
-* [Plugin for Oracle Commerce Cloud](https://github.com/Adyen/adyen-oracle-commerce-cloud)
+* [Oracle Commerce Cloud](https://github.com/Adyen/adyen-oracle-commerce-cloud)
 * [App for Salesforce B2B Commerce](https://github.com/Adyen/adyen-salesforce-b2b-commerce)
 
-### Other repos
+### Other repositories
 
 * [PHP webhook helper module for payment integrations [Beta]](https://github.com/Adyen/php-webhook-module)
 * [Plugin for feast to run an offline store on Spark [Discontinued]](https://github.com/Adyen/feast-spark-offline-store)
