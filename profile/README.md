@@ -66,6 +66,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 * [Prestashop](https://github.com/Adyen/adyen-prestashop)
 * [SAP Commerce (Hybris)](https://github.com/Adyen/adyen-hybris)
 * [Oracle Commerce Cloud](https://github.com/Adyen/adyen-oracle-commerce-cloud)
+* [Commerce Tools](https://github.com/Adyen/adyen-commercetools)
 
 ### Other repositories
 
