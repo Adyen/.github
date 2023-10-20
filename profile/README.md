@@ -22,7 +22,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 
 **🌈 Contributions are most welcome so feel free to reach out, post issues and / or propose improvements🦄**
 
-## Currently available resources
+## Our libraries, SDKs, and plug-ins
 
 ### Client-side
 
