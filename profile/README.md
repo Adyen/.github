@@ -36,6 +36,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 #### POS
 
 * [Adyen POS Mobile SDK for iOS](https://github.com/Adyen/adyen-pos-mobile-ios)
+* [Adyen POS Mobile SDK for Android](https://github.com/Adyen/adyen-pos-mobile-android)
 * [Terminal API for iOS](https://github.com/Adyen/adyen-terminal-api-ios)
 
 #### Supplementary
