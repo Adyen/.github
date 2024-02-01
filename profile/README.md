@@ -61,7 +61,8 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 
 ### Plugins
 
-* [Salesforce Commerce Cloud (Demandware)](https://github.com/Adyen/adyen-salesforce-commerce-cloud)
+* [Salesforce Commerce Cloud (SFRA Demandware)](https://github.com/Adyen/adyen-salesforce-commerce-cloud)
+* [Salesforce Commerce Cloud (SiteGenesis Demandware)](https://github.com/Adyen/adyen-salesforce-commerce-cloud-site-genesis)
 * [Magento2](https://github.com/Adyen/adyen-magento2) 
 * [Shopware 6](https://github.com/Adyen/adyen-shopware6)
 * [Shopware 5](https://github.com/Adyen/adyen-shopware5)
