@@ -32,6 +32,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 * [iOS Drop-in and components](https://github.com/Adyen/adyen-ios)
 * [Android Drop-in and components](https://github.com/Adyen/adyen-android)
 * [React Native Drop-in and components](https://github.com/Adyen/adyen-react-native)
+* [Flutter Drop-in and components](https://github.com/Adyen/adyen-flutter)
 
 #### POS
 
