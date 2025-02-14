@@ -64,15 +64,15 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 
 * [Salesforce Commerce Cloud (SFRA Demandware)](https://github.com/Adyen/adyen-salesforce-commerce-cloud)
 * [Salesforce Commerce Cloud (SiteGenesis Demandware)](https://github.com/Adyen/adyen-salesforce-commerce-cloud-site-genesis)
-* [Magento2](https://github.com/Adyen/adyen-magento2) 
+* [Adobe Commerce (FKA Magento 2)](https://github.com/Adyen/adyen-magento2) 
 * [Shopware 6](https://github.com/Adyen/adyen-shopware6)
 * [Shopware 5](https://github.com/Adyen/adyen-shopware5)
 * [Prestashop](https://github.com/Adyen/adyen-prestashop)
 * [SAP Commerce (Hybris)](https://github.com/Adyen/adyen-hybris)
 * [Oracle Commerce Cloud](https://github.com/Adyen/adyen-oracle-commerce-cloud)
 * [Commerce Tools](https://github.com/Adyen/adyen-commercetools)
-* [Magento2 Express Checkout](https://github.com/Adyen/adyen-magento2-express-checkout)
-* [Magento2 Hyva](https://github.com/Adyen/adyen-magento2-hyva)
+* [Adobe Commerce Express Checkout](https://github.com/Adyen/adyen-magento2-express-checkout)
+* [Adobe Commerce Hyvä](https://github.com/Adyen/adyen-magento2-hyva)
 
 ### Other repositories
 
