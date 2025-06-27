@@ -69,7 +69,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 * [Shopware 6](https://github.com/Adyen/adyen-shopware6)
 * [Shopware 5](https://github.com/Adyen/adyen-shopware5)
 * [Prestashop](https://github.com/Adyen/adyen-prestashop)
-* [SAP Cloud Commerce](https://github.com/Adyen/adyen-hybris)
+* [SAP Commerce Cloud](https://github.com/Adyen/adyen-hybris)
 * [Oracle Commerce Cloud](https://github.com/Adyen/adyen-oracle-commerce-cloud)
 * [Commerce Tools](https://github.com/Adyen/adyen-commercetools)
 * [Magento2 Express Checkout](https://github.com/Adyen/adyen-magento2-express-checkout)
