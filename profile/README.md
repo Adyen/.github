@@ -18,7 +18,7 @@ This page contains the source code for all of our libraries, SDKs and plug-ins a
 * 🐦 [Our developer Twitter account](https://twitter.com/AdyenDevs)
 * ❓ [Ask a question on Stack Overflow](https://stackoverflow.com/questions/tagged/adyen)
 * 📰 [Our developer newsletter](https://www.adyen.com/newsletter/developers)
-* 📺 [Checkout our tech playlist on Youtube](https://www.youtube.com/watch?v=VPpTgsJbIhc&list=PL6agz7H5yEoaS-bF2gIwRwe_ApzqmW_QX)
+* 📺 [Check out our tech playlist on YouTube](https://www.youtube.com/watch?v=VPpTgsJbIhc&list=PL6agz7H5yEoaS-bF2gIwRwe_ApzqmW_QX)
 
 **🌈 Contributions are most welcome so feel free to reach out, post issues and / or propose improvements🦄**
 

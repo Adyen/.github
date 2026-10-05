@@ -1,6 +1,6 @@
 # Adyen Support
 
-If you're seeking for support there are many options, check out:
+If you're seeking support there are many options, check out:
 
 * [Documentation](https://docs.adyen.com)
 * [Adyen Help](https://help.adyen.com/)
